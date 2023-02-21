@@ -1,0 +1,27 @@
+{
+  "users": [
+    {
+      "nom": "Feres",
+      "prenom": "Cherif",
+      "email": "feres.cherif150817@gmail.com",
+      "password": "123456",
+      "id": 1
+    }
+  ],
+  "products": [
+    {
+      "nom": "Iphone 13",
+      "desc": "peu utilisé",
+      "quantity": 1,
+      "Price": 4000,
+      "id": 1
+    },
+    {
+      "nom": "Playstation5",
+      "desc": "etat neuf\n",
+      "quantity": 2,
+      "Price": 1,
+      "id": 2
+    }
+  ]
+}
